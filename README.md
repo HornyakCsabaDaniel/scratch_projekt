@@ -7,3 +7,6 @@ A játékban a játékos Ámort (egy repülő karaktert) irányítja az egeréve
 - **Karakterek (Sprite-ok):** Ámor (játékos), Piros Szív (gyűjthető) és Villám (akadály).
 - **Vezérlés:** A játékos karaktere folyékonyan, az egérmutatót követve mozog.
 - **Dinamikus nehézség:** A játék a pontszám alapján egyre nehezedik! A szívek felszállási sebessége és a felhők zuhanási sebessége folyamatosan gyorsul.
+
+## Képernyőmentés a játékról:
+![A játék közben](kep.png)
